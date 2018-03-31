@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  direction: rtl;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#infoTable{
+  text-align: center;
+  
+}
+
+#infoTable td {
+  vertical-align: middle;
+}
+
+#infoTable img{
+  max-width: 150px;
+  padding: 10px;
+}
+.odd {
+  background: #f7f5f5;
+}
+
+#modelNo{
+  float: right;
+  width: 45%;
+  margin: 10px;
+}
+
+#buyPrice, #sellPrice{
+width: 22%;
+float: right;
+margin: 10px;
+}
+
+.btn-primary{
+  float: left;
+  margin: 10px;
+}
